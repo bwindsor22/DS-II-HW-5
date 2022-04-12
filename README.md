@@ -2,6 +2,8 @@
 
 Resources:
 * https://regexone.com/
+* https://launchschool.com/books/regex/read/introduction
+* https://www.youtube.com/watch?v=V8qFhGLjmgo
 
 Write the following methods using RegEx
 
