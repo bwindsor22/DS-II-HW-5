@@ -16,5 +16,6 @@ For instance, the first function returns `true` in the case of "My email is abc@
 5. static bool palindrome(String s)  - a 10 letter case insensitive palindrome like "asdfggfdsa". Note: for this problem only assume that the whole string is either a palindrome or not a palindrome. E.g. "a abba" returns false, even though it contains a palindrome.
 
 
-Of course, unit tests required...How else do you know it works. Unit tests should also include false positive testing.
+Please note that unit tests required...How else do you know it works. Unit tests should also include false positive testing.
 
+HW Credit: Dr. Jonathan Roberts
